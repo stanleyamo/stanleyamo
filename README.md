@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Stanley Amo-Brown Jnr
 
-I'm a **Software Engineering graduate** passionate about building modern applications across backend, frontend, and mobile. I enjoy solving problems, writing clean code, and constantly learning new technologies that help me grow as a developer.
+I'm a **Software Engineering student** passionate about building modern applications across backend, frontend, and mobile. I enjoy solving problems, writing clean code, and constantly learning new technologies that help me grow as a developer.
 
 ---
 
