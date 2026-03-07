@@ -6,11 +6,11 @@ I'm a **Software Engineering student** passionate about building modern applicat
 
 ## 📊 My GitHub Stats
 <p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Stanley's GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=stanleyamo&theme=tokyonight&hide_border=true" alt="Stanley's GitHub Streak" />
 </p>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanleyamo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -47,8 +47,6 @@ My long-term goal is to become a highly skilled backend engineer while building 
 ### **Backend & Frameworks**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
