@@ -4,17 +4,6 @@ I'm a **Software Engineering student** passionate about building modern applicat
 
 ---
 
-## 📊 My GitHub Stats
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=stanleyamo&theme=tokyonight&hide_border=true" alt="Stanley's GitHub Streak" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanleyamo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## 🧑‍💻 Who Am I?
 A dedicated developer with a strong interest in backend development, full-stack engineering, and mobile app development. I love creating applications that are both functional and user-friendly, and I’m always looking for ways to improve my craft.
 
@@ -55,6 +44,12 @@ My long-term goal is to become a highly skilled backend engineer while building 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+---
+## 📊 My GitHub Stats
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=stanleyamo&theme=tokyonight&hide_border=true" alt="Stanley's GitHub Streak" />
+</p>
 
 ---
 
