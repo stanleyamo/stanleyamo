@@ -17,16 +17,6 @@ An outcome-driven software engineer specializing in systems architecture and end
 
 ---
 
-## 📦 Featured Productions
-*   **[Smart Invoice & Automated Reminder Platform](https://your-live-link.com)** | *Laravel, React, MySQL*
-    *   Designed a multi-tier financial management system featuring automated background task scheduling, secure transactional data relationships, and a modern reporting dashboard.
-    *   👉 `[View Repository](https://github.com/stanleyamo/your-repo-link)`
-*   **[Smart Waste Management API](https://your-live-link.com)** | *Django REST Framework, React*
-    *   Architected a modular data-driven backend service integrated with data validation handling and custom API endpoints deployed seamlessly across cloud environments.
-    *   👉 `[View Repository](https://github.com/stanleyamo/your-repo-link)`
-
----
-
 ## 🛠️ Tools & Technologies
 
 ### **Frontend & Mobile**
