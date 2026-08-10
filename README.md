@@ -44,12 +44,6 @@ An outcome-driven software engineer specializing in systems architecture and end
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ---
-## 📊 My GitHub Stats
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=stanleyamo&theme=tokyonight&hide_border=true" alt="Stanley's GitHub Streak" />
-</p>
-
----
 
 ## 📫 How to Reach Me
 - **Portfolio:** [Visit My Portfolio](https://react-project-theta-neon.vercel.app/)
