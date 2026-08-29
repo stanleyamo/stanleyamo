@@ -46,7 +46,6 @@ An outcome-driven software engineer specializing in systems architecture and end
 ---
 
 ## 📫 How to Reach Me
-- **Portfolio:** [Visit My Portfolio](https://react-project-theta-neon.vercel.app/)
 - **Email:** [stanleyamobrown3@gmail.com](mailto:stanleyamobrown3@gmail.com)
 
 Thanks for checking out my profile! Feel free to explore my repositories or reach out—I’m always open to discussing system architecture, engineering pipelines, or remote collaboration opportunities.
