@@ -18,7 +18,7 @@ Most of my client work lives in private repositories, so my contribution graph d
 ## 🏗️ Selected Work
 - **Nudge (Smart Invoicing & Automated Reminders):** Built a Laravel and Livewire billing platform with scheduled Artisan tasks to automate client payment reminders and invoice tracking.
 - **Emergency Resource Coordination API:** Developed a real-time coordination backend using Django, WebSockets, Docker, and AI integration, load-tested for high-concurrency response.
-- **Coders Who Travel Inc. Platform:** Contributed to the redesign and migration of a non-profit web platform using React, TypeScript, Tailwind CSS, and Paystack integration.
+- **Coders Who Travel Inc. Platform:** Architected and rebuilt the non-profit's web platform using React, TypeScript, Tailwind CSS, Brevo API serverless functions, and Paystack donation workflows.
 
 ---
 
@@ -57,7 +57,7 @@ Most of my client work lives in private repositories, so my contribution graph d
 ---
 
 ## 📫 Get in Touch
-- **Portfolio:** [react-project-theta-neon.vercel.app](https://react-project-theta-neon.vercel.app/)
+- **Portfolio:** currently not available
 - **Email:** [stanleyamobrown3@gmail.com](mailto:stanleyamobrown3@gmail.com)
 - **LinkedIn:** [stanley-amo-brown](https://linkedin.com/in/stanley-amo-brown-7434a6392)
 
